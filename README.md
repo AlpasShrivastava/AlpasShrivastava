@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alpas Shrivastava</h1>
 
-![MasterHead](https://raw.githubusercontent.com/rajkumarsahu89/rajkumarsahu89/main/cover.jpg)
+![MasterHead](https://raw.githubusercontent.com/AlpasShrivastava/AlpasShrivastava/main/cover_img_alpas.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Alpas+Shrivastava!;Learning+MERN+Stack+Development...👨🏻‍💻;" style="width: 100%;">
 
